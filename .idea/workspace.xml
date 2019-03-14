@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93b53ef4-91e7-4f39-8e10-c1b3a45833a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BlackJack/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack/BlackJack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack/src/edu/dmacc/codedsm/blackjack/BlackJack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack_John/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack_John/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack_John/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack_John/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack_John/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack_John/BlackJack_John.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack_John/src/edu/dmacc/codedsm/blackjackjohn/BlackJackJohn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack_John/src/edu/dmacc/codedsm/blackjackjohn/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackJack_John/src/edu/dmacc/codedsm/blackjackjohn/DeckRandomizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10/src/edu/dmacc/codedsm/homework10/DeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10DeckofCards/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework10DeckofCards/src/edu/dmacc/codedsm/homework10DeckofCards/DeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Deal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/DeckRandomizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Homework11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7/src/edu/dmacc/codedsm/hw7/SumHundred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework8/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework8/Homework8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework8/src/edu/dmacc/codedsm/hw8/StringRandomizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework9/src/edu/dmacc/codedsm/homework9/RandomIntegerListGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I suck/src/edu/dmacc/codedsm/iSuck/iSuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5/src/Lab5/ConditionalLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/Lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/src/Labwork_Lab6/NatesLab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7/src/edu/dmacc/codedsm/lab7/NatesLab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab8/src/edu/dmacc/codedsm/lab8/NatesLab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops_Practice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops_Practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops_Practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops_Practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops_Practice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops_Practice/Loops_Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops_Practice/src/LoopsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops_Practice/src/edu/dmacc/codedsm/loopsPractice/LoopsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlay/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlay/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlay/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlay/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlay/PlayPlayPlay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlay/src/TestThis/CodingIsFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlayPlay/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlayPlay/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlayPlay/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlayPlay/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlayPlay/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlayPlay/PlayPlayPlayPlay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayPlayPlayPlay/src/edu/dmacc/codedsm/playplayplayplay/PlayPlayPlayPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayWithThisMarch5/src/edu/dmacc/codedsm/playPlayPlay/iNeedMorePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sheryl/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sheryl/src/edu/dmacc/codedsm/iNeedAllTheHelpICanGet/PracticeCouldntHurt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SundayPlay/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SundayPlay/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SundayPlay/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SundayPlay/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SundayPlay/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SundayPlay/SundayPlay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SundayPlay/src/edu/dmacc/codedsm/SunPlay/SundayPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/Test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/src/edu/dmacc/codedsm/test2/test2/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuesPlay/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuesPlay/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuesPlay/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuesPlay/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuesPlay/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuesPlay/TuesPlay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuesPlay/src/edu/dmacc/codedsm/TuesPlay/TuesPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edu.dmaccc.codedsm.hw6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edu.dmaccc.codedsm.hw6/src/Homework6/StringCombiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework10play/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework10play/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework10play/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework10play/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework10play/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework10play/homework10play.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework10play/src/edu/dmacc/codedsm/homework10play/HW10Play.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkplay/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkplay/src/letsplay/playfeb26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/Homework7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/edu/dmacc/codedsm/hw7/Homework7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3a/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu.dmacc.codedsm.hw4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../edu.dmacc.codedsm.hw4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework2" beforeDir="false" afterPath="$PROJECT_DIR$/../homework2" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Homework11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="38" column="19" selection-end-line="50" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Card.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/DeckRandomizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="14" selection-end-line="87" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Deck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="43">
+              <caret line="9" column="14" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-end-line="36" />
+              <folding>
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/DeckRandomizer.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Cards.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Ramdomizer.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Card.java" />
+        <option value="$PROJECT_DIR$/src/Deal.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Deck.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Player.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Homework11.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Deal.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Runner.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="138" />
+    <option name="y" value="132" />
+    <option name="width" value="1473" />
+    <option name="height" value="825" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Homework11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homework11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homework11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homework11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homework11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Homework11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552529205736" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BlackJack" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.dmacc.codedsm.homework11" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.dmacc.codedsm.homework11" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="Deal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dmacc.codedsm.homework11.Deal" />
+      <module name="Homework11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dmacc.codedsm.homework11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dmacc.codedsm.homework11.Homework11" />
+      <module name="Homework11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dmacc.codedsm.homework11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dmacc.codedsm.homework11.Runner" />
+      <module name="Homework11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dmacc.codedsm.homework11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.Deal" />
+        <item itemvalue="Application.Homework11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93b53ef4-91e7-4f39-8e10-c1b3a45833a7" name="Default Changelist" comment="" />
+      <created>1552356884370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552356884370</updated>
+      <workItem from="1552356888271" duration="4755000" />
+      <workItem from="1552409574459" duration="27546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32301000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18993288" />
+      <window_info id="Structure" order="1" side_tool="true" visible="true" weight="0.24966443" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49798658" visible="true" weight="0.26912183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50201344" side_tool="true" weight="0.26912183" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4966443" weight="0.32719547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.027516779" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.033769064" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" visible="true" weight="0.020134227" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Ramdomizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#1363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Deal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Homework11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="38" column="19" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Deck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="9" column="14" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-end-line="36" />
+          <folding>
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/DeckRandomizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/homework11/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-end-line="87" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
